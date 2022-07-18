@@ -1,6 +1,6 @@
 # Pavê simples de chocolate 🍫
 
-### **Ingredientes**
+### **Ingredientes** 📝
 
 - 1 lata de creme de leite
 - 1 lata de leite (a mesma medida da lata de creme de leite)
